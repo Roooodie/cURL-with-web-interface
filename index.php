@@ -1,6 +1,6 @@
 <?php
-define("BASE_URL", "http://localhost/php-curl-webinterface/");
-$baseurl = 'http://localhost/php-curl-webinterface/';
+define("BASE_URL", "http://localhost/cURL-with-web-interface/");
+$baseurl = 'http://localhost/cURL-with-web-interface/';
 ?>
 
 <!DOCTYPE html>
